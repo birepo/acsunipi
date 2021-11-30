@@ -8,6 +8,7 @@ import time
 import utils as u
 from azure.servicebus.management import ServiceBusAdministrationClient
 test = 'test git'
+test 2 = 222
 
 # COMMAND ----------
 
